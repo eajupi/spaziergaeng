@@ -88,6 +88,8 @@ Erstellt dafür ein Issue und beschreibt den Bug darin und fügt falls möglich 
 ### Testing
 - Batuhan Özdamar
 - Leys Köksal
+- Nikolas Koch
+- Jason Dietrich
 
 ### NLP
 - Nikolas Koch
