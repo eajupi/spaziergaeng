@@ -28,7 +28,7 @@ Das Ziel ist es die ganze Map freizuschalten und jeden der Kämpfe anschließend
 
 Der Ritter wird seine Kämpfe mit 2 Allies bestreiten die er durch den eingegebenen Textprompt steuern kann. Dabei wird der eingegebene Prompt von der KI interpretiert und diese sucht dann einen Move aus der zum Prompt passt. Man muss dabei beachten das jeder Ally von dir anders reagiert – finde heraus, wie du sie am besten lenken kannst.
 
-Es gibt derzeit 5 Moves für die sich die KI entscheiden kann, Heavy Attack, Light Attack, Dodge, Defend, Heal und Communicate. Abhängig von deiner Text Eingabe wird die KI einen der 5 Moves auswählen und dein jeweiliger Ally vollzieht diesen Move dann.
+Es gibt derzeit 6 Moves für die sich die KI entscheiden kann, Heavy Attack, Light Attack, Dodge, Defend, Heal und Communicate. Abhängig von deiner Text Eingabe wird die KI einen der 6 Moves auswählen und dein jeweiliger Ally vollzieht diesen Move dann.
 
 ---
 
