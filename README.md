@@ -33,7 +33,7 @@ Es gibt derzeit 5 Moves für die sich die KI entscheiden kann, Heavy Attack, Sma
 ---
 
 ## Gameplay 
-*In der unteren Leiste sieht man die Text-Eingabe die von der KI bearbeitet wird. Mit der TAB Taste kann man zwischen den Allies switchen, außerdem hat man 120 Sek Zeit für die Text Eingabe*
+*In der unteren Leiste sieht man die Text-Eingabe die von der KI bearbeitet wird. Mit der TAB Taste kann man zwischen den Allies switchen, außerdem hat man 120 Sek Zeit für die Text Eingabe.*
 
 
 
@@ -42,13 +42,63 @@ Es gibt derzeit 5 Moves für die sich die KI entscheiden kann, Heavy Attack, Sma
 
 
 
-*In den Räumen ist die Helligkeit auf der Seite des Feindes schwächer, erst nach einem gewonnenen Kampf leuchtet der Raum einheitlich*
+*In den Räumen ist die Helligkeit auf der Seite des Feindes (rechts) schwächer, erst nach einem gewonnenen Kampf leuchtet der Raum einheitlich.*
 
 ![nurRaum](images/nurRaum.png)
 
 
 
-*Nach gewonnene Kämpfe kriegt man Schlüssel mit denen man neue Räume betreten kann. Hat man alle Schlüssel kann man den Boss Fight freischalten.*
+*Nach gewonnenen Kämpfen kriegt man Schlüssel mit denen man neue Räume betreten kann. Hat man alle Schlüssel kann man den Boss Fight freischalten.*
 
 ![Map](images/Map.png)
 
+---
+
+## Installation 
+Zum Installieren des Spiels sollt ihr folgendes machen:
+
+1. Lade die Ordner dieses Repository als .zip-Datei herunter [hier einfügen, wenn vorhanden].
+2. Entpacke das Archiv auf deinem PC.
+3. Darin sollte eine exe. Datei sein, wenn ihr diese ausführt dann startet das Spiel.
+
+## Bug-Reporting
+Da das Spiel noch eine Demo ist, ist es relativ wahrscheinlich das sich irgendwo Bugs verstecken.
+
+Falls ihr welche gefunden habt, könnt ihr uns es gerne wissen lassen!
+
+Erstellt dafür ein Issue und beschreibt den Bug darin und fügt falls möglich Screenshots ein. Wir werden uns diese dann angucken, Danke!
+
+## Contributors 
+
+### Core Gameplay 
+- Berat-Yasin Bahadir 
+- Davide Deho
+- Suthan Sivendran 
+
+### Art (UI, Icons)
+- Eduard Ajupi
+- Urim Krasniqi
+- Ermal Balaj
+
+### Character Design/Animation
+- Leys Köksal
+- Ermal Balaj
+- Schahad 
+
+### Testing
+- Batuhan Özdamar
+- Leys Köksal
+
+### NLP
+- Nikolas Koch
+- Jason Dietrich
+
+### 3D Assets, Map Design
+- Berat-Yasin Bahadir 
+- Davide Deho
+- Suthan Sivendran
+- Eduard Ajupi
+- Urim Krasniqi
+- Batuhan Özdamar
+- Leys Köksal
+- Schahad
