@@ -57,7 +57,7 @@ Es gibt derzeit 5 Moves für die sich die KI entscheiden kann, Heavy Attack, Sma
 ## Installation 
 Zum Installieren des Spiels sollt ihr folgendes machen:
 
-1. Lade die Ordner dieses Repository als .zip-Datei herunter [hier einfügen, wenn vorhanden].
+1. Lade die Ordner dieses Repository als .zip-Datei herunter.
 2. Entpacke das Archiv auf deinem PC.
 3. Darin sollte eine exe. Datei sein, wenn ihr diese ausführt dann startet das Spiel.
 
