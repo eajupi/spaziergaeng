@@ -42,7 +42,7 @@ Es gibt derzeit 5 Moves für die sich die KI entscheiden kann, Heavy Attack, Sma
 
 
 
-*In den Räumen ist die Helligkeit auf der Seite des Feindes (rechts) schwächer, erst nach einem gewonnenen Kampf leuchtet der Raum einheitlich.*
+*In den Räumen ist die Helligkeit auf der Seite des Feindes (rechts) schwächer, erst nach einem gewonnenen Kampf leuchtet der Raum einheitlich. Dies trägt zur Realisierung des Themes bei.*
 
 ![nurRaum](images/nurRaum.png)
 
