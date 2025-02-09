@@ -33,5 +33,22 @@ Es gibt derzeit 5 Moves für die sich die KI entscheiden kann, Heavy Attack, Sma
 ---
 
 ## Gameplay 
+*In der unteren Leiste sieht man die Text-Eingabe die von der KI bearbeitet wird. Mit der TAB Taste kann man zwischen den Allies switchen, außerdem hat man 120 Sek Zeit für die Text Eingabe*
 
+
+
+
+
+
+
+
+*In den Räumen ist die Helligkeit auf der Seite des Feindes schwächer, erst nach einem gewonnenen Kampf leuchtet der Raum einheitlich*
+
+![nurRaum](images/nurRaum.png)
+
+
+
+*Nach gewonnene Kämpfe kriegt man Schlüssel mit denen man neue Räume betreten kann. Hat man alle Schlüssel kann man den Boss Fight freischalten.*
+
+![Map](images/Map.png)
 
