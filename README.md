@@ -61,6 +61,8 @@ Zum Installieren des Spiels sollt ihr folgendes machen:
 2. Entpacke das Archiv auf deinem PC.
 3. Darin sollte eine exe. Datei sein, wenn ihr diese ausführt dann startet das Spiel.
 
+Das Spiel ist bisher nur für Windows verfügbar.
+
 ## Bug-Reporting
 Da das Spiel noch eine Demo ist, ist es relativ wahrscheinlich das sich irgendwo Bugs verstecken.
 
