@@ -33,7 +33,7 @@ Currently, there are six possible moves for the AI to choose from: **Heavy Attac
 ---
 
 ## Gameplay 
-*At the bottom, you will find the text input that is processed by the AI. You can switch between allies using the TAB key. You have 120 seconds to enter your text command. Also you can see a symbol above the enemy as a hint for his move.*
+*At the bottom, you will find the text input that is processed by the AI. You can switch between allies using the TAB key. You have 120 seconds to enter your text command. You can also see a symbol above the enemy as a hint for his next move.*
 
 ![twoAllies](images/twoAllies.png)
 
@@ -141,7 +141,7 @@ Es gibt derzeit 6 Moves für die sich die KI entscheiden kann: **Heavy Attack, L
 ---
 
 ## Gameplay 
-*In der unteren Leiste sieht man die Text-Eingabe die von der KI bearbeitet wird. Mit der TAB Taste kann man zwischen den Allies switchen, außerdem hat man 120 Sek Zeit für die Text Eingabe. Man sieht auch ein Symbol über den Feind der als Tipp dient für seinen Move.*
+*In der unteren Leiste sieht man die Text-Eingabe die von der KI bearbeitet wird. Mit der TAB Taste kann man zwischen den Allies switchen, außerdem hat man 120 Sek Zeit für die Text Eingabe. Man sieht auch ein Symbol über den Feind der als Tipp dient für seinen nächsten Move.*
 
 ![twoAllies](images/twoAllies.png)
 
