@@ -54,7 +54,7 @@ To install the game, follow these steps:
 2. Extract the archive on your PC.
 3. Inside, you should find an `.exe` file. Run it to start the game.
 
-The game is currently only available for Windows.
+*Disclaimer: The game is currently only available for Windows and an active internet connection is required for the game.*
 
 ---
 
@@ -166,7 +166,7 @@ Zum Installieren des Spiels sollt ihr folgendes machen:
 2. Entpacke das Archiv auf deinem PC.
 3. Darin sollte eine `.exe` Datei sein, wenn ihr diese ausführt dann startet das Spiel.
 
-Das Spiel ist bisher nur für Windows verfügbar.
+*Hinweis: Das Spiel ist bisher nur für Windows verfügbar und man braucht eine bestehende Internetverbindung für das Spiel.*
 
 ## Bug-Reporting
 Da das Spiel noch eine Demo ist, ist es relativ wahrscheinlich das sich irgendwo Bugs verstecken.
