@@ -22,6 +22,9 @@ Since the game is still under development, there is currently only a demo versio
 ---
 
 ## The Game
+
+[trailer](videos/trailer.mp4)
+
 The theme is realized as follows: The map starts off dark, and the protagonist—a knight—fights his way through the map. With each victorious battle, light spreads across the map, unlocking new battles for the knight to conquer.  
 
 The goal is to unlock the entire map and win every battle to finally banish the darkness.
@@ -130,6 +133,9 @@ Da das Spiel noch nicht fertiggestellt ist, gibt es derzeit nur eine Demo mit 2-
 ---
 
 ## Game
+
+[trailer](videos/trailer.mp4)
+
 Das Theme wurde folgendermaßen realisiert: Zum einen wird die Map am Anfang eher Dunkel sein und der Protagonist (bei uns ein Ritter) wird sich durch die Map kämpfen und durch gewonnene Kämpfe das Licht in der Map verbreiten. Dadurch schaltet man neue Kämpfe in der Map frei, die der Ritter wieder bestreiten kann. 
 
 Das Ziel ist es die ganze Map freizuschalten und jeden der Kämpfe anschließend zu gewinnen, sodass die Map am Ende auch von der Dunkelheit befreit ist. 
