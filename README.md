@@ -28,7 +28,7 @@ The goal is to unlock the entire map and win every battle to finally banish the 
 
 The knight is accompanied by two allies who are controlled via text input. The AI interprets the input and selects a move that matches the given command. Each ally reacts differently, so you need to discover how to guide them most effectively.
 
-Currently, there are six possible moves for the AI to choose from: **Heavy Attack, Light Attack, Dodge, Defend, Heal, and Communicate**. Based on your text input, the AI selects one of these moves, which your ally will then perform.
+Currently, there are six possible moves for the AI to choose from: **Heavy Attack, Light Attack, Dodge, Defend, Heal, and Communicate**. 
 
 ---
 
