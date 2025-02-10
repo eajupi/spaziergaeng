@@ -15,7 +15,7 @@ In this ReadMe, you will find information about our game, divided into the follo
 ## Project Shadows Bane
 *Shadows Bane* is a turn-based Dark Fantasy game where the player controls light creatures to fight dark shadow beings. This game is the result of our university course *Game Project*.  
 
-In the development process, the theme **"Living Light"** had to be integrated into the game, along with a new technology. The implementation of the theme will be discussed in the section "The game", while the chosen technology in our case is AI-based control through natural language input (NLP).
+In the development process, the theme **"Living Light"** had to be integrated into the game, along with a new technology. The implementation of the theme will be discussed in the section [The game](#game), while the chosen technology in our case is AI-based control through natural language input (NLP).
 
 Since the game is still under development, there is currently only a demo version with 2-3 battles, including a boss fight and a tutorial. More features and additional battles will be added as the development progresses.
 
@@ -81,7 +81,7 @@ Create an issue, describe the bug, and, if possible, attach screenshots. We will
 ### Character Design/Animation
 - Leys Köksal
 - Ermal Balaj
-- Schahad 
+- Schahad Al-Beik
 
 ### Testing
 - Batuhan Özdamar
@@ -101,7 +101,7 @@ Create an issue, describe the bug, and, if possible, attach screenshots. We will
 - Urim Krasniqi
 - Batuhan Özdamar
 - Leys Köksal
-- Schahad
+- Schahad Al-Beik
 
 ---
 
@@ -123,7 +123,7 @@ In dieser ReadMe wirst du Informationen zu unserem Spiel bekommen, unterteilt in
 ## Project Shadows Bane
 Shadows Bane ist ein rundenbasiertes Dark-Fantasy-Spiel, in dem der Spieler Lichtkreaturen gegen finstere Schattenwesen steuert. Das Game ist das Ergebnis unseres Kurses "Spielprojekt" von unserer Universität. 
 
-In der Spielentwicklung musste man das Theme "Living light" berücksichtigen und dazu noch eine neue Technologie in das Spiel einbauen. Ersteres wird im nachfolgenden Punkt "Game" besprochen. Die neue Technologie ist in unserem Fall eine KI-basierte Steuerung über natürliche Spracheingaben (NLP).
+In der Spielentwicklung musste man das Theme **"Living light"** berücksichtigen und dazu noch eine neue Technologie in das Spiel einbauen. Ersteres wird im nachfolgenden Punkt  [The game](#game) besprochen. Die neue Technologie ist in unserem Fall eine KI-basierte Steuerung über natürliche Spracheingaben (NLP).
 
 Da das Spiel noch nicht fertiggestellt ist, gibt es derzeit nur eine Demo mit 2-3 Kämpfen inklusive Boss-Fight und Tutorial. Bis zur fertigstellung werden noch weitere Features folgen und natürlich auch mehr Kämpfe.
 
@@ -136,7 +136,7 @@ Das Ziel ist es die ganze Map freizuschalten und jeden der Kämpfe anschließend
 
 Der Ritter wird seine Kämpfe mit 2 Allies bestreiten die er durch den eingegebenen Textprompt steuern kann. Dabei wird der eingegebene Prompt von der KI interpretiert und diese sucht dann einen Move aus der zum Prompt passt. Man muss dabei beachten das jeder Ally von dir anders reagiert – finde heraus, wie du sie am besten lenken kannst.
 
-Es gibt derzeit 6 Moves für die sich die KI entscheiden kann, Heavy Attack, Light Attack, Dodge, Defend, Heal und Communicate. Abhängig von deiner Text Eingabe wird die KI einen der 6 Moves auswählen und dein jeweiliger Ally vollzieht diesen Move dann.
+Es gibt derzeit 6 Moves für die sich die KI entscheiden kann: **Heavy Attack, Light Attack, Dodge, Defend, Heal, Communicate**. Abhängig von deiner Text Eingabe wird die KI einen der 6 Moves auswählen und dein jeweiliger Ally vollzieht diesen Move dann.
 
 ---
 
@@ -162,9 +162,9 @@ Es gibt derzeit 6 Moves für die sich die KI entscheiden kann, Heavy Attack, Lig
 ## Installation 
 Zum Installieren des Spiels sollt ihr folgendes machen:
 
-1. Lade die Ordner dieses Repository als .zip-Datei herunter.
+1. Lade die Ordner dieses Repository als `.zip` Datei herunter.
 2. Entpacke das Archiv auf deinem PC.
-3. Darin sollte eine exe. Datei sein, wenn ihr diese ausführt dann startet das Spiel.
+3. Darin sollte eine `.exe` Datei sein, wenn ihr diese ausführt dann startet das Spiel.
 
 Das Spiel ist bisher nur für Windows verfügbar.
 
@@ -190,7 +190,7 @@ Erstellt dafür ein Issue und beschreibt den Bug darin und fügt falls möglich 
 ### Character Design/Animation
 - Leys Köksal
 - Ermal Balaj
-- Schahad 
+- Schahad Al-Beik
 
 ### Testing
 - Batuhan Özdamar
@@ -210,4 +210,4 @@ Erstellt dafür ein Issue und beschreibt den Bug darin und fügt falls möglich 
 - Urim Krasniqi
 - Batuhan Özdamar
 - Leys Köksal
-- Schahad
+- Schahad Al-Beik
