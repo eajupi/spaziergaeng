@@ -22,8 +22,9 @@ Since the game is still under development, there is currently only a demo versio
 ---
 
 ## The Game
+## 🎥 Trailer:
+[![Shadows Bane Trailer](https://img.youtube.com/vi/JzOh18sgGic/maxresdefault.jpg)](https://www.youtube.com/watch?v=JzOh18sgGic)
 
-[trailer](videos/trailer.mp4)
 
 The theme is realized as follows: The map starts off dark, and the protagonist—a knight—fights his way through the map. With each victorious battle, light spreads across the map, unlocking new battles for the knight to conquer.  
 
@@ -53,7 +54,7 @@ Currently, there are six possible moves for the AI to choose from: **Heavy Attac
 ## Installation 
 To install the game, follow these steps:
 
-1. Download the folders from this repository as a `.zip` file.
+1. Download the folder from the following link as a `.zip` file. (Link: https://drive.google.com/file/d/1gFBVT2jaRJdhpwdG2bQf11i83HfX6GNP/view?usp=drive_link)
 2. Extract the archive on your PC.
 3. Inside, you should find an `.exe` file. Run it to start the game.
 
@@ -134,7 +135,8 @@ Da das Spiel noch nicht fertiggestellt ist, gibt es derzeit nur eine Demo mit 2-
 
 ## Game
 
-[trailer](videos/trailer.mp4)
+## 🎥 Trailer:
+[![Shadows Bane Trailer](https://img.youtube.com/vi/JzOh18sgGic/maxresdefault.jpg)](https://www.youtube.com/watch?v=JzOh18sgGic)
 
 Das Theme wurde folgendermaßen realisiert: Zum einen wird die Map am Anfang eher Dunkel sein und der Protagonist (bei uns ein Ritter) wird sich durch die Map kämpfen und durch gewonnene Kämpfe das Licht in der Map verbreiten. Dadurch schaltet man neue Kämpfe in der Map frei, die der Ritter wieder bestreiten kann. 
 
@@ -168,9 +170,9 @@ Es gibt derzeit 6 Moves für die sich die KI entscheiden kann: **Heavy Attack, L
 ## Installation 
 Zum Installieren des Spiels sollt ihr folgendes machen:
 
-1. Lade die Ordner dieses Repository als `.zip` Datei herunter.
+1. Lade den Ordner vom folgenden Link als `.zip` Datei herunter. (Link: https://drive.google.com/file/d/1gFBVT2jaRJdhpwdG2bQf11i83HfX6GNP/view?usp=drive_link)
 2. Entpacke das Archiv auf deinem PC.
-3. Darin sollte eine `.exe` Datei sein, wenn ihr diese ausführt dann startet das Spiel.
+3. Darin sollte eine `.exe` Datei sein, wenn ihr diese ausführt startet das Spiel.
 
 *Hinweis: Das Spiel ist bisher nur für Windows verfügbar und man braucht eine bestehende Internetverbindung für das Spiel.*
 
