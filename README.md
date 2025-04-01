@@ -1,3 +1,6 @@
+# NEW WEBSITE
+https://spaziergaeng.itch.io/shadows-bane
+
 # Shadows Bane - Banish the Night (English Version)
 
 ## Table of Contents
